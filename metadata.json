@@ -1,0 +1,6 @@
+{
+  "name": "LabelCraft AI — Data Annotation & QA Platform",
+  "description": "Production-grade data annotation and quality assurance workspace for text, image classification, bounding boxes, automated QA audits, gold-standard evaluation, and exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
